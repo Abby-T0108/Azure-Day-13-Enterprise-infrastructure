@@ -1,0 +1,23 @@
+Day 12: Azure Enterprise Infrastructure
+
+Infrastructure Components Deployed
+- Virtual Network with secure subnets
+- VPN Gateway for remote access
+- Azure Storage (Static Website Hosting)
+- Azure Front Door (Global CDN & Load Balancing)
+
+Global Performance
+This website was deployed using Azure's global edge locations to ensure optimal performance worldwide, reducing latency and ensuring reliable delivery.
+
+Skills Demonstrated
+- Azure Virtual Networking: Design and implementation of secure subnets and VNet architecture.
+- VPN Gateway Configuration: Setup of secure, enterprise-grade remote access solutions.
+- Static Website Hosting: Using Azure Storage for efficient, low-cost static website hosting.
+- Global Load Balancing & CDN: Implementation of Azure Front Door for dynamic routing and traffic management.
+- DNS Management: Using custom domain names and DNS routing.
+- Security Best Practices: Ensuring data protection and secure access across all services.
+
+Project Metrics
+- Global Latency: <100ms worldwide
+- Availability: 99.9% SLA
+- Security: Enterprise-grade VPN access ensuring secure data transfer
